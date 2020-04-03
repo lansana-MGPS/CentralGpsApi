@@ -1,2 +1,2 @@
 # CentralGpsApi
-Api Rest pour gérer de la partie back du projet Central GPS
+Api Rest pour gérer la partie back du projet Soulution Central GPS
